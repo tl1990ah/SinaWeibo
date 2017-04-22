@@ -17,6 +17,27 @@
 		FEE62B141EAAECD40009F874 /* SinaWeiboUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B131EAAECD40009F874 /* SinaWeiboUITests.m */; };
 		FEE62B231EAAEF2E0009F874 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B221EAAEF2E0009F874 /* MyViewController.m */; };
 		FEE62B261EAAF1000009F874 /* MyMainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */; };
+		FEE62B461EAAFA0F0009F874 /* MyComposeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B451EAAFA0F0009F874 /* MyComposeViewController.m */; };
+		FEE62B491EAAFA3B0009F874 /* MyKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B481EAAFA3B0009F874 /* MyKeyboard.m */; };
+		FEE62B4C1EAAFA520009F874 /* MyEmotion.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B4B1EAAFA520009F874 /* MyEmotion.m */; };
+		FEE62B4F1EAAFA750009F874 /* MyDiscoverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B4E1EAAFA750009F874 /* MyDiscoverViewController.m */; };
+		FEE62B521EAAFAC80009F874 /* MyOption.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B511EAAFAC80009F874 /* MyOption.m */; };
+		FEE62B551EAAFAE20009F874 /* MyDiscoverCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B541EAAFAE20009F874 /* MyDiscoverCell.m */; };
+		FEE62B581EAAFAFD0009F874 /* MyHomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B571EAAFAFD0009F874 /* MyHomeController.m */; };
+		FEE62B5B1EAAFB130009F874 /* MyStatus.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B5A1EAAFB130009F874 /* MyStatus.m */; };
+		FEE62B5E1EAAFB380009F874 /* MyStatusCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B5D1EAAFB380009F874 /* MyStatusCell.m */; };
+		FEE62B611EAAFB600009F874 /* MyMainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B601EAAFB600009F874 /* MyMainTabBarController.m */; };
+		FEE62B641EAAFB750009F874 /* MyTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B631EAAFB750009F874 /* MyTabBar.m */; };
+		FEE62B671EAAFB8B0009F874 /* MyUserInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B661EAAFB8B0009F874 /* MyUserInfo.m */; };
+		FEE62B6A1EAAFBA40009F874 /* MyMessageController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B691EAAFBA40009F874 /* MyMessageController.m */; };
+		FEE62B6D1EAAFBB80009F874 /* MyMessageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B6C1EAAFBB80009F874 /* MyMessageCell.m */; };
+		FEE62B701EAAFBCD0009F874 /* MyMessaage.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B6F1EAAFBCD0009F874 /* MyMessaage.m */; };
+		FEE62B731EAAFBEA0009F874 /* MyProfileController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B721EAAFBEA0009F874 /* MyProfileController.m */; };
+		FEE62B761EAAFC020009F874 /* MyProfileCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B751EAAFC020009F874 /* MyProfileCell.m */; };
+		FEE62B791EAAFC140009F874 /* MyOption.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B781EAAFC140009F874 /* MyOption.m */; };
+		FEE62B7C1EAAFC310009F874 /* MyNewfeatureController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B7B1EAAFC310009F874 /* MyNewfeatureController.m */; };
+		FEE62B7F1EAAFCA00009F874 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B7E1EAAFCA00009F874 /* MyView.m */; };
+		FEE62B821EAAFCB50009F874 /* MyFeature.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B811EAAFCB50009F874 /* MyFeature.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +78,48 @@
 		FEE62B221EAAEF2E0009F874 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
 		FEE62B241EAAF1000009F874 /* MyMainTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMainTabBarController.h; sourceTree = "<group>"; };
 		FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMainTabBarController.m; sourceTree = "<group>"; };
+		FEE62B441EAAFA0F0009F874 /* MyComposeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyComposeViewController.h; sourceTree = "<group>"; };
+		FEE62B451EAAFA0F0009F874 /* MyComposeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyComposeViewController.m; sourceTree = "<group>"; };
+		FEE62B471EAAFA3B0009F874 /* MyKeyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyKeyboard.h; sourceTree = "<group>"; };
+		FEE62B481EAAFA3B0009F874 /* MyKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyKeyboard.m; sourceTree = "<group>"; };
+		FEE62B4A1EAAFA520009F874 /* MyEmotion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyEmotion.h; sourceTree = "<group>"; };
+		FEE62B4B1EAAFA520009F874 /* MyEmotion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyEmotion.m; sourceTree = "<group>"; };
+		FEE62B4D1EAAFA750009F874 /* MyDiscoverViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyDiscoverViewController.h; sourceTree = "<group>"; };
+		FEE62B4E1EAAFA750009F874 /* MyDiscoverViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyDiscoverViewController.m; sourceTree = "<group>"; };
+		FEE62B501EAAFAC80009F874 /* MyOption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyOption.h; sourceTree = "<group>"; };
+		FEE62B511EAAFAC80009F874 /* MyOption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyOption.m; sourceTree = "<group>"; };
+		FEE62B531EAAFAE20009F874 /* MyDiscoverCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyDiscoverCell.h; sourceTree = "<group>"; };
+		FEE62B541EAAFAE20009F874 /* MyDiscoverCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyDiscoverCell.m; sourceTree = "<group>"; };
+		FEE62B561EAAFAFD0009F874 /* MyHomeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyHomeController.h; sourceTree = "<group>"; };
+		FEE62B571EAAFAFD0009F874 /* MyHomeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyHomeController.m; sourceTree = "<group>"; };
+		FEE62B591EAAFB130009F874 /* MyStatus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyStatus.h; sourceTree = "<group>"; };
+		FEE62B5A1EAAFB130009F874 /* MyStatus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyStatus.m; sourceTree = "<group>"; };
+		FEE62B5C1EAAFB380009F874 /* MyStatusCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyStatusCell.h; sourceTree = "<group>"; };
+		FEE62B5D1EAAFB380009F874 /* MyStatusCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyStatusCell.m; sourceTree = "<group>"; };
+		FEE62B5F1EAAFB600009F874 /* MyMainTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMainTabBarController.h; sourceTree = "<group>"; };
+		FEE62B601EAAFB600009F874 /* MyMainTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMainTabBarController.m; sourceTree = "<group>"; };
+		FEE62B621EAAFB750009F874 /* MyTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTabBar.h; sourceTree = "<group>"; };
+		FEE62B631EAAFB750009F874 /* MyTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTabBar.m; sourceTree = "<group>"; };
+		FEE62B651EAAFB8B0009F874 /* MyUserInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyUserInfo.h; sourceTree = "<group>"; };
+		FEE62B661EAAFB8B0009F874 /* MyUserInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyUserInfo.m; sourceTree = "<group>"; };
+		FEE62B681EAAFBA40009F874 /* MyMessageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMessageController.h; sourceTree = "<group>"; };
+		FEE62B691EAAFBA40009F874 /* MyMessageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMessageController.m; sourceTree = "<group>"; };
+		FEE62B6B1EAAFBB80009F874 /* MyMessageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMessageCell.h; sourceTree = "<group>"; };
+		FEE62B6C1EAAFBB80009F874 /* MyMessageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMessageCell.m; sourceTree = "<group>"; };
+		FEE62B6E1EAAFBCD0009F874 /* MyMessaage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMessaage.h; sourceTree = "<group>"; };
+		FEE62B6F1EAAFBCD0009F874 /* MyMessaage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMessaage.m; sourceTree = "<group>"; };
+		FEE62B711EAAFBEA0009F874 /* MyProfileController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyProfileController.h; sourceTree = "<group>"; };
+		FEE62B721EAAFBEA0009F874 /* MyProfileController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyProfileController.m; sourceTree = "<group>"; };
+		FEE62B741EAAFC020009F874 /* MyProfileCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyProfileCell.h; sourceTree = "<group>"; };
+		FEE62B751EAAFC020009F874 /* MyProfileCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyProfileCell.m; sourceTree = "<group>"; };
+		FEE62B771EAAFC140009F874 /* MyOption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyOption.h; sourceTree = "<group>"; };
+		FEE62B781EAAFC140009F874 /* MyOption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyOption.m; sourceTree = "<group>"; };
+		FEE62B7A1EAAFC310009F874 /* MyNewfeatureController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyNewfeatureController.h; sourceTree = "<group>"; };
+		FEE62B7B1EAAFC310009F874 /* MyNewfeatureController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyNewfeatureController.m; sourceTree = "<group>"; };
+		FEE62B7D1EAAFCA00009F874 /* MyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
+		FEE62B7E1EAAFCA00009F874 /* MyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
+		FEE62B801EAAFCB50009F874 /* MyFeature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyFeature.h; sourceTree = "<group>"; };
+		FEE62B811EAAFCB50009F874 /* MyFeature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyFeature.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,8 +217,274 @@
 		FEE62B271EAAF8D50009F874 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				FEE62B281EAAF9F00009F874 /* Compose */,
+				FEE62B2C1EAAF9F00009F874 /* Discover */,
+				FEE62B301EAAF9F00009F874 /* Home */,
+				FEE62B341EAAF9F00009F874 /* Main */,
+				FEE62B381EAAF9F00009F874 /* Message */,
+				FEE62B3C1EAAF9F00009F874 /* Newfeature */,
+				FEE62B401EAAF9F00009F874 /* Profile */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		FEE62B281EAAF9F00009F874 /* Compose */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B291EAAF9F00009F874 /* Controller */,
+				FEE62B2A1EAAF9F00009F874 /* Model */,
+				FEE62B2B1EAAF9F00009F874 /* View */,
+			);
+			path = Compose;
+			sourceTree = "<group>";
+		};
+		FEE62B291EAAF9F00009F874 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B441EAAFA0F0009F874 /* MyComposeViewController.h */,
+				FEE62B451EAAFA0F0009F874 /* MyComposeViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FEE62B2A1EAAF9F00009F874 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B4A1EAAFA520009F874 /* MyEmotion.h */,
+				FEE62B4B1EAAFA520009F874 /* MyEmotion.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE62B2B1EAAF9F00009F874 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B471EAAFA3B0009F874 /* MyKeyboard.h */,
+				FEE62B481EAAFA3B0009F874 /* MyKeyboard.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FEE62B2C1EAAF9F00009F874 /* Discover */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B2D1EAAF9F00009F874 /* Controller */,
+				FEE62B2E1EAAF9F00009F874 /* Model */,
+				FEE62B2F1EAAF9F00009F874 /* View */,
+			);
+			path = Discover;
+			sourceTree = "<group>";
+		};
+		FEE62B2D1EAAF9F00009F874 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B4D1EAAFA750009F874 /* MyDiscoverViewController.h */,
+				FEE62B4E1EAAFA750009F874 /* MyDiscoverViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FEE62B2E1EAAF9F00009F874 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B501EAAFAC80009F874 /* MyOption.h */,
+				FEE62B511EAAFAC80009F874 /* MyOption.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE62B2F1EAAF9F00009F874 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B531EAAFAE20009F874 /* MyDiscoverCell.h */,
+				FEE62B541EAAFAE20009F874 /* MyDiscoverCell.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FEE62B301EAAF9F00009F874 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B311EAAF9F00009F874 /* Controller */,
+				FEE62B321EAAF9F00009F874 /* Model */,
+				FEE62B331EAAF9F00009F874 /* View */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		FEE62B311EAAF9F00009F874 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B561EAAFAFD0009F874 /* MyHomeController.h */,
+				FEE62B571EAAFAFD0009F874 /* MyHomeController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FEE62B321EAAF9F00009F874 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B591EAAFB130009F874 /* MyStatus.h */,
+				FEE62B5A1EAAFB130009F874 /* MyStatus.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE62B331EAAF9F00009F874 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B5C1EAAFB380009F874 /* MyStatusCell.h */,
+				FEE62B5D1EAAFB380009F874 /* MyStatusCell.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FEE62B341EAAF9F00009F874 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B351EAAF9F00009F874 /* Controller */,
+				FEE62B361EAAF9F00009F874 /* Model */,
+				FEE62B371EAAF9F00009F874 /* View */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		FEE62B351EAAF9F00009F874 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B5F1EAAFB600009F874 /* MyMainTabBarController.h */,
+				FEE62B601EAAFB600009F874 /* MyMainTabBarController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FEE62B361EAAF9F00009F874 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B651EAAFB8B0009F874 /* MyUserInfo.h */,
+				FEE62B661EAAFB8B0009F874 /* MyUserInfo.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE62B371EAAF9F00009F874 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B621EAAFB750009F874 /* MyTabBar.h */,
+				FEE62B631EAAFB750009F874 /* MyTabBar.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FEE62B381EAAF9F00009F874 /* Message */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B391EAAF9F00009F874 /* Controller */,
+				FEE62B3A1EAAF9F00009F874 /* Model */,
+				FEE62B3B1EAAF9F00009F874 /* View */,
+			);
+			path = Message;
+			sourceTree = "<group>";
+		};
+		FEE62B391EAAF9F00009F874 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B681EAAFBA40009F874 /* MyMessageController.h */,
+				FEE62B691EAAFBA40009F874 /* MyMessageController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FEE62B3A1EAAF9F00009F874 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B6E1EAAFBCD0009F874 /* MyMessaage.h */,
+				FEE62B6F1EAAFBCD0009F874 /* MyMessaage.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE62B3B1EAAF9F00009F874 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B6B1EAAFBB80009F874 /* MyMessageCell.h */,
+				FEE62B6C1EAAFBB80009F874 /* MyMessageCell.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FEE62B3C1EAAF9F00009F874 /* Newfeature */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B3D1EAAF9F00009F874 /* Controller */,
+				FEE62B3E1EAAF9F00009F874 /* Model */,
+				FEE62B3F1EAAF9F00009F874 /* View */,
+			);
+			path = Newfeature;
+			sourceTree = "<group>";
+		};
+		FEE62B3D1EAAF9F00009F874 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B7A1EAAFC310009F874 /* MyNewfeatureController.h */,
+				FEE62B7B1EAAFC310009F874 /* MyNewfeatureController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FEE62B3E1EAAF9F00009F874 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B801EAAFCB50009F874 /* MyFeature.h */,
+				FEE62B811EAAFCB50009F874 /* MyFeature.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE62B3F1EAAF9F00009F874 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B7D1EAAFCA00009F874 /* MyView.h */,
+				FEE62B7E1EAAFCA00009F874 /* MyView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FEE62B401EAAF9F00009F874 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B411EAAF9F00009F874 /* Controller */,
+				FEE62B421EAAF9F00009F874 /* Model */,
+				FEE62B431EAAF9F00009F874 /* View */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		FEE62B411EAAF9F00009F874 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B711EAAFBEA0009F874 /* MyProfileController.h */,
+				FEE62B721EAAFBEA0009F874 /* MyProfileController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FEE62B421EAAF9F00009F874 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B771EAAFC140009F874 /* MyOption.h */,
+				FEE62B781EAAFC140009F874 /* MyOption.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE62B431EAAF9F00009F874 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B741EAAFC020009F874 /* MyProfileCell.h */,
+				FEE62B751EAAFC020009F874 /* MyProfileCell.m */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,6 +549,7 @@
 		FEE62AE31EAAECD10009F874 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = My;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = wellgood;
 				TargetAttributes = {
@@ -292,10 +622,31 @@
 			buildActionMask = 2147483647;
 			files = (
 				FEE62AF61EAAECD30009F874 /* ViewController.m in Sources */,
+				FEE62B761EAAFC020009F874 /* MyProfileCell.m in Sources */,
+				FEE62B671EAAFB8B0009F874 /* MyUserInfo.m in Sources */,
 				FEE62AF31EAAECD30009F874 /* AppDelegate.m in Sources */,
+				FEE62B791EAAFC140009F874 /* MyOption.m in Sources */,
+				FEE62B731EAAFBEA0009F874 /* MyProfileController.m in Sources */,
 				FEE62B231EAAEF2E0009F874 /* MyViewController.m in Sources */,
+				FEE62B6D1EAAFBB80009F874 /* MyMessageCell.m in Sources */,
+				FEE62B551EAAFAE20009F874 /* MyDiscoverCell.m in Sources */,
+				FEE62B581EAAFAFD0009F874 /* MyHomeController.m in Sources */,
+				FEE62B701EAAFBCD0009F874 /* MyMessaage.m in Sources */,
+				FEE62B4F1EAAFA750009F874 /* MyDiscoverViewController.m in Sources */,
+				FEE62B521EAAFAC80009F874 /* MyOption.m in Sources */,
+				FEE62B641EAAFB750009F874 /* MyTabBar.m in Sources */,
+				FEE62B7F1EAAFCA00009F874 /* MyView.m in Sources */,
+				FEE62B491EAAFA3B0009F874 /* MyKeyboard.m in Sources */,
+				FEE62B461EAAFA0F0009F874 /* MyComposeViewController.m in Sources */,
+				FEE62B6A1EAAFBA40009F874 /* MyMessageController.m in Sources */,
+				FEE62B5B1EAAFB130009F874 /* MyStatus.m in Sources */,
 				FEE62AF01EAAECD30009F874 /* main.m in Sources */,
+				FEE62B821EAAFCB50009F874 /* MyFeature.m in Sources */,
+				FEE62B7C1EAAFC310009F874 /* MyNewfeatureController.m in Sources */,
+				FEE62B5E1EAAFB380009F874 /* MyStatusCell.m in Sources */,
 				FEE62B261EAAF1000009F874 /* MyMainTabBarController.m in Sources */,
+				FEE62B4C1EAAFA520009F874 /* MyEmotion.m in Sources */,
+				FEE62B611EAAFB600009F874 /* MyMainTabBarController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
