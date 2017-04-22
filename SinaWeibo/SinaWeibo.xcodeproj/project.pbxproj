@@ -111,6 +111,7 @@
 		FEE62B811EAAFCB50009F874 /* MyFeature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyFeature.m; sourceTree = "<group>"; };
 		FEE62B841EAB0DC90009F874 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FEE62B851EAB0DC90009F874 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FEE62B871EAB10B70009F874 /* SinaWeibo.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SinaWeibo.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +176,7 @@
 				FEE62AFA1EAAECD30009F874 /* Assets.xcassets */,
 				FEE62AFF1EAAECD30009F874 /* Info.plist */,
 				FEE62AEF1EAAECD30009F874 /* main.m */,
+				FEE62B871EAB10B70009F874 /* SinaWeibo.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -866,6 +868,7 @@
 				FEE62B1A1EAAECD40009F874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FEE62B1B1EAAECD40009F874 /* Build configuration list for PBXNativeTarget "SinaWeiboTests" */ = {
 			isa = XCConfigurationList;
@@ -874,6 +877,7 @@
 				FEE62B1D1EAAECD40009F874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FEE62B1E1EAAECD40009F874 /* Build configuration list for PBXNativeTarget "SinaWeiboUITests" */ = {
 			isa = XCConfigurationList;
@@ -882,6 +886,7 @@
 				FEE62B201EAAECD40009F874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
