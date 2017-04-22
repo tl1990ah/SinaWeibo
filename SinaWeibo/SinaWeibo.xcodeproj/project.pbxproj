@@ -107,6 +107,7 @@
 		FEE62AED1EAAECD20009F874 /* SinaWeibo */ = {
 			isa = PBXGroup;
 			children = (
+				FEE62B271EAAF8D50009F874 /* Classes */,
 				FEE62AF11EAAECD30009F874 /* AppDelegate.h */,
 				FEE62AF21EAAECD30009F874 /* AppDelegate.m */,
 				FEE62AF41EAAECD30009F874 /* ViewController.h */,
@@ -148,6 +149,13 @@
 				FEE62B151EAAECD40009F874 /* Info.plist */,
 			);
 			path = SinaWeiboUITests;
+			sourceTree = "<group>";
+		};
+		FEE62B271EAAF8D50009F874 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
