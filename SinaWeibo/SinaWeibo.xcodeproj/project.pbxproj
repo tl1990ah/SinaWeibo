@@ -8,15 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		FEE62AF01EAAECD30009F874 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62AEF1EAAECD30009F874 /* main.m */; };
-		FEE62AF31EAAECD30009F874 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62AF21EAAECD30009F874 /* AppDelegate.m */; };
-		FEE62AF61EAAECD30009F874 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62AF51EAAECD30009F874 /* ViewController.m */; };
 		FEE62AF91EAAECD30009F874 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE62AF71EAAECD30009F874 /* Main.storyboard */; };
 		FEE62AFB1EAAECD30009F874 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEE62AFA1EAAECD30009F874 /* Assets.xcassets */; };
 		FEE62AFE1EAAECD30009F874 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE62AFC1EAAECD30009F874 /* LaunchScreen.storyboard */; };
 		FEE62B091EAAECD30009F874 /* SinaWeiboTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B081EAAECD30009F874 /* SinaWeiboTests.m */; };
 		FEE62B141EAAECD40009F874 /* SinaWeiboUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B131EAAECD40009F874 /* SinaWeiboUITests.m */; };
-		FEE62B231EAAEF2E0009F874 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B221EAAEF2E0009F874 /* MyViewController.m */; };
-		FEE62B261EAAF1000009F874 /* MyMainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */; };
 		FEE62B461EAAFA0F0009F874 /* MyComposeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B451EAAFA0F0009F874 /* MyComposeViewController.m */; };
 		FEE62B491EAAFA3B0009F874 /* MyKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B481EAAFA3B0009F874 /* MyKeyboard.m */; };
 		FEE62B4C1EAAFA520009F874 /* MyEmotion.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B4B1EAAFA520009F874 /* MyEmotion.m */; };
@@ -38,6 +34,7 @@
 		FEE62B7C1EAAFC310009F874 /* MyNewfeatureController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B7B1EAAFC310009F874 /* MyNewfeatureController.m */; };
 		FEE62B7F1EAAFCA00009F874 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B7E1EAAFCA00009F874 /* MyView.m */; };
 		FEE62B821EAAFCB50009F874 /* MyFeature.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B811EAAFCB50009F874 /* MyFeature.m */; };
+		FEE62B861EAB0DC90009F874 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B851EAB0DC90009F874 /* AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,10 +57,6 @@
 /* Begin PBXFileReference section */
 		FEE62AEB1EAAECD20009F874 /* SinaWeibo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SinaWeibo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEE62AEF1EAAECD30009F874 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FEE62AF11EAAECD30009F874 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		FEE62AF21EAAECD30009F874 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FEE62AF41EAAECD30009F874 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		FEE62AF51EAAECD30009F874 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		FEE62AF81EAAECD30009F874 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FEE62AFA1EAAECD30009F874 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEE62AFD1EAAECD30009F874 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -74,10 +67,6 @@
 		FEE62B0F1EAAECD40009F874 /* SinaWeiboUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SinaWeiboUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEE62B131EAAECD40009F874 /* SinaWeiboUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SinaWeiboUITests.m; sourceTree = "<group>"; };
 		FEE62B151EAAECD40009F874 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FEE62B211EAAEF2E0009F874 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
-		FEE62B221EAAEF2E0009F874 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
-		FEE62B241EAAF1000009F874 /* MyMainTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMainTabBarController.h; sourceTree = "<group>"; };
-		FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMainTabBarController.m; sourceTree = "<group>"; };
 		FEE62B441EAAFA0F0009F874 /* MyComposeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyComposeViewController.h; sourceTree = "<group>"; };
 		FEE62B451EAAFA0F0009F874 /* MyComposeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyComposeViewController.m; sourceTree = "<group>"; };
 		FEE62B471EAAFA3B0009F874 /* MyKeyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyKeyboard.h; sourceTree = "<group>"; };
@@ -120,6 +109,8 @@
 		FEE62B7E1EAAFCA00009F874 /* MyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
 		FEE62B801EAAFCB50009F874 /* MyFeature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyFeature.h; sourceTree = "<group>"; };
 		FEE62B811EAAFCB50009F874 /* MyFeature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyFeature.m; sourceTree = "<group>"; };
+		FEE62B841EAB0DC90009F874 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FEE62B851EAB0DC90009F874 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,19 +162,7 @@
 			isa = PBXGroup;
 			children = (
 				FEE62B271EAAF8D50009F874 /* Classes */,
-				FEE62AF11EAAECD30009F874 /* AppDelegate.h */,
-				FEE62AF21EAAECD30009F874 /* AppDelegate.m */,
-				FEE62AF41EAAECD30009F874 /* ViewController.h */,
-				FEE62AF51EAAECD30009F874 /* ViewController.m */,
-				FEE62AF71EAAECD30009F874 /* Main.storyboard */,
-				FEE62AFA1EAAECD30009F874 /* Assets.xcassets */,
-				FEE62AFC1EAAECD30009F874 /* LaunchScreen.storyboard */,
-				FEE62AFF1EAAECD30009F874 /* Info.plist */,
 				FEE62AEE1EAAECD30009F874 /* Supporting Files */,
-				FEE62B211EAAEF2E0009F874 /* MyViewController.h */,
-				FEE62B221EAAEF2E0009F874 /* MyViewController.m */,
-				FEE62B241EAAF1000009F874 /* MyMainTabBarController.h */,
-				FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */,
 			);
 			path = SinaWeibo;
 			sourceTree = "<group>";
@@ -191,6 +170,10 @@
 		FEE62AEE1EAAECD30009F874 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FEE62AF71EAAECD30009F874 /* Main.storyboard */,
+				FEE62AFC1EAAECD30009F874 /* LaunchScreen.storyboard */,
+				FEE62AFA1EAAECD30009F874 /* Assets.xcassets */,
+				FEE62AFF1EAAECD30009F874 /* Info.plist */,
 				FEE62AEF1EAAECD30009F874 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -217,6 +200,7 @@
 		FEE62B271EAAF8D50009F874 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				FEE62B831EAB0D990009F874 /* Other */,
 				FEE62B281EAAF9F00009F874 /* Compose */,
 				FEE62B2C1EAAF9F00009F874 /* Discover */,
 				FEE62B301EAAF9F00009F874 /* Home */,
@@ -487,6 +471,15 @@
 			path = View;
 			sourceTree = "<group>";
 		};
+		FEE62B831EAB0D990009F874 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				FEE62B841EAB0DC90009F874 /* AppDelegate.h */,
+				FEE62B851EAB0DC90009F874 /* AppDelegate.m */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -621,13 +614,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEE62AF61EAAECD30009F874 /* ViewController.m in Sources */,
+				FEE62B861EAB0DC90009F874 /* AppDelegate.m in Sources */,
 				FEE62B761EAAFC020009F874 /* MyProfileCell.m in Sources */,
 				FEE62B671EAAFB8B0009F874 /* MyUserInfo.m in Sources */,
-				FEE62AF31EAAECD30009F874 /* AppDelegate.m in Sources */,
 				FEE62B791EAAFC140009F874 /* MyOption.m in Sources */,
 				FEE62B731EAAFBEA0009F874 /* MyProfileController.m in Sources */,
-				FEE62B231EAAEF2E0009F874 /* MyViewController.m in Sources */,
 				FEE62B6D1EAAFBB80009F874 /* MyMessageCell.m in Sources */,
 				FEE62B551EAAFAE20009F874 /* MyDiscoverCell.m in Sources */,
 				FEE62B581EAAFAFD0009F874 /* MyHomeController.m in Sources */,
@@ -644,7 +635,6 @@
 				FEE62B821EAAFCB50009F874 /* MyFeature.m in Sources */,
 				FEE62B7C1EAAFC310009F874 /* MyNewfeatureController.m in Sources */,
 				FEE62B5E1EAAFB380009F874 /* MyStatusCell.m in Sources */,
-				FEE62B261EAAF1000009F874 /* MyMainTabBarController.m in Sources */,
 				FEE62B4C1EAAFA520009F874 /* MyEmotion.m in Sources */,
 				FEE62B611EAAFB600009F874 /* MyMainTabBarController.m in Sources */,
 			);
