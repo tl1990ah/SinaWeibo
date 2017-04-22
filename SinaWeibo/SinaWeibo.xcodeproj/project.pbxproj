@@ -16,6 +16,7 @@
 		FEE62B091EAAECD30009F874 /* SinaWeiboTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B081EAAECD30009F874 /* SinaWeiboTests.m */; };
 		FEE62B141EAAECD40009F874 /* SinaWeiboUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B131EAAECD40009F874 /* SinaWeiboUITests.m */; };
 		FEE62B231EAAEF2E0009F874 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B221EAAEF2E0009F874 /* MyViewController.m */; };
+		FEE62B261EAAF1000009F874 /* MyMainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		FEE62B151EAAECD40009F874 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FEE62B211EAAEF2E0009F874 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
 		FEE62B221EAAEF2E0009F874 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
+		FEE62B241EAAF1000009F874 /* MyMainTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyMainTabBarController.h; sourceTree = "<group>"; };
+		FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMainTabBarController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				FEE62AEE1EAAECD30009F874 /* Supporting Files */,
 				FEE62B211EAAEF2E0009F874 /* MyViewController.h */,
 				FEE62B221EAAEF2E0009F874 /* MyViewController.m */,
+				FEE62B241EAAF1000009F874 /* MyMainTabBarController.h */,
+				FEE62B251EAAF1000009F874 /* MyMainTabBarController.m */,
 			);
 			path = SinaWeibo;
 			sourceTree = "<group>";
@@ -282,6 +287,7 @@
 				FEE62AF31EAAECD30009F874 /* AppDelegate.m in Sources */,
 				FEE62B231EAAEF2E0009F874 /* MyViewController.m in Sources */,
 				FEE62AF01EAAECD30009F874 /* main.m in Sources */,
+				FEE62B261EAAF1000009F874 /* MyMainTabBarController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
