@@ -139,6 +139,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FE911B261EAB72D500D93225 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		FEE62AE21EAAECD10009F874 = {
 			isa = PBXGroup;
 			children = (
@@ -162,6 +169,7 @@
 		FEE62AED1EAAECD20009F874 /* SinaWeibo */ = {
 			isa = PBXGroup;
 			children = (
+				FE911B261EAB72D500D93225 /* Resources */,
 				FEE62B271EAAF8D50009F874 /* Classes */,
 				FEE62AEE1EAAECD30009F874 /* Supporting Files */,
 			);
